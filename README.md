@@ -1,4 +1,4 @@
-Opa eu sou a Lincoln Thomas!
+Hi I'm Lincoln Thomas!
 
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on front end.
